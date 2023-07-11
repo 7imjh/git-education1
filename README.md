@@ -1,4 +1,4 @@
 # git-education1
-git ¼ö¾÷ÀÚ·á
+git ìˆ˜ì—… ë‚´ìš©
 
 I don't know

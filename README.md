@@ -1,2 +1,4 @@
 # git-education1
-git ìˆ˜ì—…ìë£Œ
+git ¼ö¾÷ÀÚ·á
+
+I don't know

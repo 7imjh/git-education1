@@ -1,2 +1,2 @@
-# git-education1
+# git-education
 git 수업자료
